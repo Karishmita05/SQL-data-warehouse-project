@@ -21,9 +21,9 @@ Develop a modern data warehouse using MYSQL to consolidate sales data, enabling 
 
   ---
 
-  ### BI: Analytics & Reporting (Data Analytics)
+### BI: Analytics & Reporting (Data Analytics)
 
-  #### Objective
+#### Objective
   Develop SQL-based analytics to deliver detailed insights into:
   - **Customer Behaviour**
   - **Product Performance**
@@ -33,7 +33,7 @@ Develop a modern data warehouse using MYSQL to consolidate sales data, enabling 
 
   ---
 
-  ## 💥 About Me
+## 💥 About Me
 
 Hi there! I am Karishmita Majumder.I'm a Data Analyst passionate about transforming complex datasets into clear, actionable stories. I specialize in mastering SQL, Python, and BI tools to bridge the gap between raw data and strategic business decisions.
 
